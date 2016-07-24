@@ -6,4 +6,4 @@ RiveScriptJS is an alternative to traditional AIML chatbots. It provides the gro
 
 ##See In prodution
 [external link demo](http://rawgithub.com/AstunTechnology/external-links/master/demo.html).
-<a href="zunair-syed.github.io/AMA">Ask Me Anything</a>
+<a href="https://zunair-syed.github.io/AMA">Ask Me Anything</a>
