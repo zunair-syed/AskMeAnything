@@ -11,7 +11,7 @@
 // Bot Variables
 ! var name     = Zunair
 ! var fullname = Zunair Syed
-! var age      = 19
+! var age      = 20
 ! var birthday = end of November
 ! var sex      = male
 ! var location = mississauga
@@ -24,7 +24,7 @@
 ! var book     = javascript: the good parts
 ! var author   = Gayle Laakmann McDowell
 ! var job      = innovator and developer
-! var website  = ece.uwaterloo.ca/~zu2syed
+! var website  = zunair-syed.github.io
 
 // Substitutions
 ! sub &quot;    = "

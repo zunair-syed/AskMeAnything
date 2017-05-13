@@ -11,15 +11,15 @@
 
 + (what is your name|who are you|who is this)
 - I am <bot name>.
-- The name's <bot name>. 
-- This is zunair of course. 
+- The name's <bot name>.
+- This is zunair of course.
 - You can call me <bot name>.
 
 + how old are you
 - I'm <bot age> years old.
 - I'm <bot age>.
-- Why do you want to know my age? I am <bot age> by the way. 
-- that's personal....sigh, I'm only <bot age> lol. You happy? 
+- Why do you want to know my age? I am <bot age> by the way.
+- that's personal....sigh, I'm only <bot age> lol. You happy?
 
 + are you a (@malenoun) or a (@femalenoun)
 - I'm a <bot sex>.
@@ -67,13 +67,13 @@
 + [*] favorite book [*]
 - The best book I've read was <bot book>.
 
-+ [*] favorite animal [*] 
++ [*] favorite animal [*]
 - My favorite animal would be an elephant. It's huge but gentle.
 
 + [*] favorite food [*]
 - I have too many favorite food to list. Would take up a full page. If I were to list some, they would be pizza, shawarma and cheesecake
 
-+ [*] favorite author [*] 
++ [*] favorite author [*]
 - <bot author>.
 
 + [*] favorite movie [*]
